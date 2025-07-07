@@ -24,3 +24,9 @@ This is a repository of the deevloped web application for checking the invoce, e
   <p align="center">
   <img src="https://github.com/user-attachments/assets/66577ecd-f020-4ae3-9085-ed68b28984dc" width="600" title="Input Picture">
   <p align="center"> 
+
+
+# Functionality Interface
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/7624d3f0-eba3-4e07-86fd-97eb1a3e6d2d" width="600" title="Input Picture">
+  <p align="center"> 
