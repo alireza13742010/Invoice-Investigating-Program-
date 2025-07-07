@@ -4,20 +4,34 @@ This is a repository of the deevloped web application for checking the invoce, e
 1. Invoices are received as PDFs.  
 2. Invoices are automatically read.
 3. Extracted informations:
+
    3.1. Client name
+   
    3.2. Client address
+   
    3.3. Client postal code
+   
    3.4. Client city
+   
    3.5. Chamber of Commerce number
+   
    3.6. VAT number
+   
    3.7. Invoice date
+   
    3.8. Payment term or due date
+   
    3.9. IBAN
+   
    3.10. Debtor verification (name and address of contact person sometimes present, sometimes not)
-4. Program Functionality
+   
+5. Program Functionality
    4.1. Checking the extracted information.
+   
    4.2. The ability to reject, approve or put it on hold.
+   
    4.3. Manually adding teh threshold for all the document or create a portfolio for the client.
+   
    4.4. visual dashboard over the client information.
 
 # User Interface 
